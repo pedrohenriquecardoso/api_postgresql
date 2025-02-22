@@ -1,6 +1,6 @@
 # Introduction 📜
 
-This is an API for study purposes. We're using Node.js with PostgreSQL as the database and Docker to manage our containers and images. In this project, we're implementing with Docker Desktop and PGAdmin4."
+This is an API for study purposes. We're using Node.js with PostgreSQL as the database and Docker to manage our containers and images. In this project, we're implementing with Docker Desktop and PGAdmin4.
 
 ## Installation ☕️
 
